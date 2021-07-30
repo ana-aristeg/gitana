@@ -1,4 +1,4 @@
-#pequeno cambio
+#04:00
 #Optimizacion Bayesiana de hiperparametros de  rpart
 #limpio la memoria
 rm( list=ls() )  #remove all objects
